@@ -23,7 +23,7 @@ Designed with accessibility and assistive technology in mind, this project enabl
 ## System Architecture
 
 <p align="center">
-  <img src="./System%20Architecture%20for%20License%20Project.png" alt="System Architecture" width="600">
+  <img src="./Assets/System%20Architecture%20for%20License%20Project.png" alt="System Architecture" width="600">
 </p>
 
-<p><a href="https://canva.link/5dnbi1l5qx22tfw">You can find the design on Canva in a Romanian version as well</a></p
+<p><a href="https://canva.link/5dnbi1l5qx22tfw">You can also find the design on Canva in a Romanian version by using this link</a></p
