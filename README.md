@@ -19,3 +19,11 @@ Designed with accessibility and assistive technology in mind, this project enabl
 - **GUI Launch Pad & Discovery Gallery**: Integrated Tkinter launcher (`ConfigMenu`) for IP/Camera index configuration and a session gallery (`SessionWindow`) to review discovered targets.
 
 ---
+
+## System Architecture
+
+<p align="center">
+  <img src="./System%20Architecture%20for%20License%20Project.png" alt="System Architecture" width="600">
+</p>
+
+<p><a href="https://canva.link/5dnbi1l5qx22tfw">You can find the design on Canva in a Romanian version as well</a></p
